@@ -31,7 +31,7 @@ parse.process_dask("source.xlsx", "out.tsv", 4)
 ```
 
 ```diff
-Other requirements (Auto-Install With The Library):
+Other Requirements (Auto-Install With The Library):
 ```
 - pip install dask 
 - pip install pandas 
