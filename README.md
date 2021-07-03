@@ -1,11 +1,11 @@
 # allelica-lib Documentation.
 
-For The Example Using The Class.
-[Source-Code](https://github.com/4DIngenieria/Allelica).
+The Source Code of The Library. [Source-Code](https://github.com/4DIngenieria/allelica-lib).
 
+For The Example Using The Class. [Source-Code](https://github.com/4DIngenieria/Allelica).
 
 ```diff
-For the installation of this library: "pip install Allelica-pkg-Nico.4D"
+For The Installation of This Library: "pip install Allelica-pkg-Nico.4D"
 ```
 
 ```python
@@ -31,7 +31,7 @@ parse.process_dask("source.xlsx", "out.tsv", 4)
 ```
 
 ```diff
-Other requirements:
+Other requirements (Auto-Install With The Library):
 ```
 - pip install dask 
 - pip install pandas 
